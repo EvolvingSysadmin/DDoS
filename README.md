@@ -1,7 +1,7 @@
 # DDoS
 Snippets of code and resources related to DDoS attacks for graduate coursework on network security
 
-## imgflood Layer 7 Attack
+## imgflood Layer 7 flood attack
 ```
 function imgflood() {
   var TARGET = 'victim-website.com'
