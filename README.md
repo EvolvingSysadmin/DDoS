@@ -6,11 +6,11 @@ Snippets of code and resources related to DDoS attacks for graduate coursework o
 
 - [imgflood](#imgflood-Layer-7-flood-attack)
 - [Raven-Storm Toolkit](#Raven-Storm-Toolkit)
-- [Sysmon Monitoring](#Sysmon-Monitoring)
-- [Threat Intelligence Applications](#Threat-Intelligence-Applications)
-- [Document Resources](#Document-Resources)
-- [Online Resources](#Online-Resources)
-
+- [ufonet](#ufonet)
+- [DDoS Infinite HTTP GET](#DDoS-Infinite-HTTP-GET)
+- [Golang-httpflood](#Golang-httpflood)
+- [DDoS-Ripper](#DDoS-Ripper)
+- [DDoS Scripts](#DDoS-Scripts)
 
 ## imgflood Layer 7 flood attack
 - Link: [An introduction to JavaScript-based DDoS](https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/)
@@ -56,7 +56,7 @@ pip3 install whois
 pip3 install scapy-python3
 ```
 
-## DDoS Infinite HTTP GET Requests
+## DDoS Infinite HTTP GET
 - Link: [DDoS HTTP GET GitHub](https://github.com/Konstantin8105/DDoS)
 
 ```
