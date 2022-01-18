@@ -1,6 +1,7 @@
 # DDoS
 Snippets of code and resources related to DDoS attacks for graduate coursework on network security
 
+ ![DDoS All The Things](/logo.png)
 
 ## Table of Contents
 
@@ -116,4 +117,4 @@ $ python3 DRipper.py OR python2 DRipper.py
 ```
 
 ## DDoS Scripts
-- Link: [DDoS Scripts](https://github.com/PraneethKarnena/DDoS-Scripts)
+- Link: [DDoS Scripts GitHub](https://github.com/PraneethKarnena/DDoS-Scripts)
