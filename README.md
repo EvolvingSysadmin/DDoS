@@ -1,7 +1,7 @@
 # DDoS
 Snippets of code and resources related to DDoS attacks for graduate coursework on network security
 
- ![DDoS All The Things](/logo.jpg)
+ ![DDoS All The Things](/ddos-logo.jpg)
 
 ## Table of Contents
 
